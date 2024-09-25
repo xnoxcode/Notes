@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    //MESSAGE
+    <string name="message_tooltip_favorite">Favorito</string>
+    <string name="message_tooltip_priority_title">Prioridad</string>
+    <string name="message_tooltip_priority_description">El icono en forma de bombilla con colores azul, verde, y rojo representan la prioridad de la nota, normal, media y alta respectivamente.</string>
+    <string name="message_tooltip_priority_action">Entendido</string>
+
+    //DIALOG
+    <string name="dialog_btn_ok">OK</string>
+    <string name="dialog_btn_cancel">CANCELAR</string>
+    <string name="dialog_btn_delete">ELIMINAR</string>
+    <string name="dialog_delete_all_notes_title">Eliminar todo</string>
+    <string name="dialog_delete_all_notes_content">Todas sus notas serán eliminadas</string>
+    <string name="dialog_delete_note_title">Eliminar nota</string>
+    <string name="dialog_delete_note_description">Desea eliminar esta nota?</string>
+
+    //SCREEN NOTES
+    <string name="screen_notes_fab_notes_create">Crear Nota</string>
+    <string name="screen_notes_empty_notes_title">No hay nada</string>
+    <string name="screen_notes_empty_notes_description">Crea una nota para que aparezca aquí</string>
+
+    //SCREEN EDITION
+    <string name="screen_edition_title_edition">Título de la nota…</string>
+    <string name="screen_edition_content_edition">Escribe tu nota aquí…</string>
+    <string name="screen_edit_fab_save_note">Guardar</string>
+    <string name="screen_edit_fab_edit_note">Editar</string>
+</resources>
